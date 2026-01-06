@@ -1,0 +1,483 @@
+{
+  "pays": "Monaco",
+  "drapeau": "🇲🇨",
+  "symbole": "💎",
+  "titre": "Éclat et Sérénité sur la Côte d'Azur",
+  "budget_total": "Environ 3600 €/personne",
+  "duree": "13 jours",
+  "temps_vol": "17h00 (format: 17h00 depuis Faure, afrique du sud)",
+  "escale": "1",
+  "jours": [
+    {
+      "jour": 1,
+      "symbole": "🛬",
+      "titre": "Arrivée princière et première immersion",
+      "legende": "Après un long voyage, l'arrivée à Monaco offre une première touche de glamour. Installez-vous confortablement et profitez d'une balade douce le long du Port Hercule pour admirer les yachts et l'ambiance unique de la Principauté.",
+      "lieu": "Monaco",
+      "activites": [
+        "<strong>🛬 Arrivée à Nice et transfert à Monaco</strong>: Un chauffeur vous attendra pour un transfert direct vers votre hôtel à Monaco, offrant un premier aperçu des paysages côtiers.",
+        "<strong>🛏️ Installation à l'hôtel</strong>: Prenez le temps de vous rafraîchir et de vous installer dans votre hébergement, idéalement situé pour explorer la ville à pied.",
+        "<strong>🚶‍♂️ Balade relaxante au Port Hercule</strong>: Une promenade en fin d'après-midi le long du port, admirant les yachts luxueux et les vues sur le Rocher, est parfaite pour débuter en douceur."
+      ],
+      "points_interet": [
+        {
+          "nom_recherche": "Port Hercule, Monaco",
+          "categorie": "Port",
+          "coords": { "lat": 43.7345, "lng": 7.4246 }
+        }
+      ],
+      "illustration": "jour1.jpg",
+      "encarts": [
+        {
+          "symbole": "ℹ️",
+          "titre": "Transfert aéroport",
+          "texte": "Le trajet de l'aéroport de Nice à Monaco dure environ 30-45 minutes. Un service de navette ou un taxi est recommandé pour plus de confort."
+        }
+      ]
+    },
+    {
+      "jour": 2,
+      "symbole": "🏰",
+      "titre": "Le Rocher, cœur historique de Monaco",
+      "legende": "Plongez dans l'histoire de Monaco en explorant le Rocher, son Palais Princier et sa majestueuse Cathédrale. Terminez la journée par une visite fascinante du Musée Océanographique, véritable temple de la vie marine.",
+      "lieu": "Monaco",
+      "activites": [
+        "<strong>👑 Visite du Palais Princier</strong>: Découvrez les Grands Appartements et assistez à la relève de la Garde, une tradition immuable.",
+        "<strong>⛪ Exploration de la Cathédrale de Monaco</strong>: Admirez l'architecture romano-byzantine de ce lieu de recueillement, dernière demeure des Princes de Monaco.",
+        "<strong>🐠 Immersion au Musée Océanographique</strong>: Laissez-vous émerveiller par les aquariums et les expositions dédiées au monde marin, un lieu emblématique de la Principauté."
+      ],
+      "points_interet": [
+        {
+          "nom_recherche": "Palais Princier de Monaco",
+          "categorie": "Palais",
+          "coords": { "lat": 43.7313, "lng": 7.4208 }
+        },
+        {
+          "nom_recherche": "Cathédrale de Monaco",
+          "categorie": "Cathédrale",
+          "coords": { "lat": 43.7309, "lng": 7.4218 }
+        },
+        {
+          "nom_recherche": "Musée Océanographique de Monaco",
+          "categorie": "Musée",
+          "coords": { "lat": 43.7304, "lng": 7.4255 }
+        }
+      ],
+      "illustration": "jour2.jpg",
+      "encarts": [
+        {
+          "symbole": "💡",
+          "titre": "Relève de la Garde",
+          "texte": "La relève de la Garde a lieu tous les jours à 11h55 précises devant le Palais Princier. Arrivez un peu en avance pour avoir une bonne place."
+        }
+      ]
+    },
+    {
+      "jour": 3,
+      "symbole": "🌸",
+      "titre": "Jardins luxuriants et glamour de Monte-Carlo",
+      "legende": "Évadez-vous dans la sérénité des jardins exotiques et japonais, offrant des vues imprenables et une flore magnifique. Terminez la journée par l'ambiance chic de la Place du Casino, symbole du luxe monégasque.",
+      "lieu": "Monaco",
+      "activites": [
+        "<strong>🌵 Détente au Jardin Exotique</strong>: Flânez parmi des milliers de plantes succulentes et profitez d'un panorama exceptionnel sur la Principauté et la mer.",
+        "<strong>🇯🇵 Sérénité au Jardin Japonais</strong>: Un havre de paix inspiré des jardins zen traditionnels, parfait pour une promenade méditative.",
+        "<strong>🎲 Ambiance à la Place du Casino</strong>: Admirez l'architecture du célèbre Casino de Monte-Carlo et les voitures de luxe qui défilent, même sans jouer."
+      ],
+      "points_interet": [
+        {
+          "nom_recherche": "Jardin Exotique de Monaco",
+          "categorie": "Jardin",
+          "coords": { "lat": 43.7251, "lng": 7.4146 }
+        },
+        {
+          "nom_recherche": "Jardin Japonais de Monaco",
+          "categorie": "Jardin",
+          "coords": { "lat": 43.7441, "lng": 7.4323 }
+        },
+        {
+          "nom_recherche": "Place du Casino, Monte-Carlo",
+          "categorie": "Place",
+          "coords": { "lat": 43.7394, "lng": 7.4279 }
+        }
+      ],
+      "illustration": "jour3.jpg",
+      "encarts": [
+        {
+          "symbole": "👗",
+          "titre": "Code vestimentaire",
+          "texte": "Pour le Casino de Monte-Carlo, une tenue correcte est exigée, surtout le soir. Les shorts et tongs sont à éviter."
+        }
+      ]
+    },
+    {
+      "jour": 4,
+      "symbole": "🏖️",
+      "titre": "Plage, balade côtière et saveurs locales",
+      "legende": "Profitez d'une matinée relaxante sur la plage du Larvotto, suivie d'une douce balade le long du littoral. L'après-midi sera dédiée à la découverte des saveurs locales au marché de la Condamine, pour une immersion gourmande.",
+      "lieu": "Monaco",
+      "activites": [
+        "<strong>☀️ Matinée détente à la Plage du Larvotto</strong>: Baignade ou simple farniente sur cette plage artificielle, idéale pour se ressourcer.",
+        "<strong>🚶‍♀️ Balade le long du littoral</strong>: Une promenade paisible sur la promenade du Larvotto, offrant de belles vues sur la mer et les environs.",
+        "<strong>🛍️ Découverte du Marché de la Condamine</strong>: Imprégnez-vous de l'ambiance locale et goûtez aux spécialités monégasques et méditerranéennes."
+      ],
+      "points_interet": [
+        {
+          "nom_recherche": "Plage du Larvotto, Monaco",
+          "categorie": "Plage",
+          "coords": { "lat": 43.7475, "lng": 7.4357 }
+        },
+        {
+          "nom_recherche": "Marché de la Condamine, Monaco",
+          "categorie": "Marché",
+          "coords": { "lat": 43.7339, "lng": 7.4229 }
+        }
+      ],
+      "illustration": "jour4.jpg",
+      "encarts": [
+        {
+          "symbole": "🍴",
+          "titre": "Pause gourmande",
+          "texte": "Au marché de la Condamine, ne manquez pas de goûter aux \"Barbagiuan\", de petits beignets farcis aux blettes et à la ricotta, une spécialité monégasque."
+        }
+      ]
+    },
+    {
+      "jour": 5,
+      "symbole": "⛰️",
+      "titre": "Évasion médiévale à Èze Village",
+      "legende": "Partez pour une excursion pittoresque à Èze, un village médiéval perché offrant des vues spectaculaires sur la Méditerranée. Ses ruelles pavées et son jardin exotique sont une invitation à la flânerie et à la contemplation.",
+      "lieu": "Èze",
+      "activites": [
+        "<strong>🚌 Trajet panoramique vers Èze</strong>: Profitez du court trajet en bus ou en voiture pour admirer les paysages côtiers entre Monaco et Èze.",
+        "<strong>🚶‍♂️ Exploration d'Èze Village</strong>: Perdez-vous dans les charmantes ruelles pavées de ce village perché, découvrant ses boutiques d'artisans et ses galeries.",
+        "<strong>🌸 Visite du Jardin Exotique d'Èze</strong>: Situé au sommet du village, ce jardin offre des vues à couper le souffle et une collection impressionnante de cactus et de plantes succulentes."
+      ],
+      "points_interet": [
+        {
+          "nom_recherche": "Èze Village",
+          "categorie": "Village",
+          "coords": { "lat": 43.7289, "lng": 7.3629 }
+        },
+        {
+          "nom_recherche": "Jardin Exotique d'Èze",
+          "categorie": "Jardin",
+          "coords": { "lat": 43.7291, "lng": 7.3633 }
+        }
+      ],
+      "illustration": "jour5.jpg",
+      "encarts": [
+        {
+          "symbole": "👟",
+          "titre": "Chaussures confortables",
+          "texte": "Les ruelles d'Èze sont pavées et montent. Prévoyez des chaussures confortables pour profiter pleinement de la visite."
+        }
+      ]
+    },
+    {
+      "jour": 6,
+      "symbole": "🍋",
+      "titre": "Menton, la perle des citrons",
+      "legende": "Découvrez Menton, la \"Perle de la France\", réputée pour ses citrons et son ambiance colorée. Flânez dans sa vieille ville pittoresque et le long de ses jardins, avant de vous détendre sur sa plage.",
+      "lieu": "Menton",
+      "activites": [
+        "<strong>🚆 Trajet côtier vers Menton</strong>: Un court trajet en train le long de la côte vous mènera à Menton, offrant de magnifiques panoramas.",
+        "<strong>🚶‍♀️ Balade dans la Vieille Ville de Menton</strong>: Explorez les ruelles étroites et colorées, la Basilique Saint-Michel Archange et le marché couvert.",
+        "<strong>🏖️ Détente à la plage des Sablettes</strong>: Profitez de l'après-midi pour vous relaxer sur la plage, avec une vue imprenable sur la vieille ville."
+      ],
+      "points_interet": [
+        {
+          "nom_recherche": "Vieille Ville de Menton",
+          "categorie": "Quartier historique",
+          "coords": { "lat": 43.7753, "lng": 7.5055 }
+        },
+        {
+          "nom_recherche": "Basilique Saint-Michel Archange, Menton",
+          "categorie": "Basilique",
+          "coords": { "lat": 43.7756, "lng": 7.5049 }
+        },
+        {
+          "nom_recherche": "Plage des Sablettes, Menton",
+          "categorie": "Plage",
+          "coords": { "lat": 43.7742, "lng": 7.5085 }
+        }
+      ],
+      "illustration": "jour6.jpg",
+      "encarts": [
+        {
+          "symbole": "🍋",
+          "titre": "Spécialité locale",
+          "texte": "Menton est célèbre pour ses citrons. N'hésitez pas à goûter aux produits dérivés comme la liqueur de citron ou la confiture."
+        }
+      ]
+    },
+    {
+      "jour": 7,
+      "symbole": "☀️",
+      "titre": "Nice, capitale de la Côte d'Azur",
+      "legende": "Découvrez Nice, la vibrante capitale de la Côte d'Azur. Flânez sur la mythique Promenade des Anglais, perdez-vous dans les ruelles colorées du Vieux Nice et imprégnez-vous de l'ambiance du marché aux fleurs.",
+      "lieu": "Nice",
+      "activites": [
+        "<strong>🚶‍♂️ Promenade des Anglais</strong>: Une balade incontournable le long de la Baie des Anges, avec ses célèbres chaises bleues.",
+        "<strong>🏘️ Exploration du Vieux Nice</strong>: Laissez-vous charmer par les ruelles étroites, les façades colorées et l'ambiance animée de la vieille ville.",
+        "<strong>💐 Visite du Marché aux Fleurs du Cours Saleya</strong>: Admirez les étals colorés de fleurs et de produits locaux, un véritable festival pour les sens."
+      ],
+      "points_interet": [
+        {
+          "nom_recherche": "Promenade des Anglais, Nice",
+          "categorie": "Promenade",
+          "coords": { "lat": 43.6958, "lng": 7.2667 }
+        },
+        {
+          "nom_recherche": "Vieux Nice, Nice",
+          "categorie": "Quartier historique",
+          "coords": { "lat": 43.6963, "lng": 7.2766 }
+        },
+        {
+          "nom_recherche": "Marché aux Fleurs Cours Saleya, Nice",
+          "categorie": "Marché",
+          "coords": { "lat": 43.6948, "lng": 7.2754 }
+        }
+      ],
+      "illustration": "jour7.jpg",
+      "encarts": [
+        {
+          "symbole": "🍴",
+          "titre": "Spécialité niçoise",
+          "texte": "Goûtez à la Socca, une galette de farine de pois chiche cuite au four à bois, typique de Nice et délicieuse en-cas."
+        }
+      ]
+    },
+    {
+      "jour": 8,
+      "symbole": "🖼️",
+      "titre": "Art, histoire et collections princières",
+      "legende": "Découvrez la richesse culturelle de Monaco à travers ses musées. Explorez l'art contemporain à la Villa Paloma et la Villa Sauber, puis plongez dans l'histoire automobile avec la collection privée du Prince.",
+      "lieu": "Monaco",
+      "activites": [
+        "<strong>🎨 Art contemporain à la Villa Paloma (NMNM)</strong>: Visitez l'une des deux villas du Nouveau Musée National de Monaco, dédiée à l'art moderne et contemporain.",
+        "<strong>🏛️ Art et patrimoine à la Villa Sauber (NMNM)</strong>: L'autre site du NMNM, présentant des expositions temporaires et des collections liées au patrimoine monégasque.",
+        "<strong>🚗 Collection de Voitures Anciennes</strong>: Admirez la collection privée de voitures de S.A.S. le Prince de Monaco, un véritable voyage dans l'histoire de l'automobile."
+      ],
+      "points_interet": [
+        {
+          "nom_recherche": "Nouveau Musée National de Monaco - Villa Paloma",
+          "categorie": "Musée",
+          "coords": { "lat": 43.7317, "lng": 7.4146 }
+        },
+        {
+          "nom_recherche": "Nouveau Musée National de Monaco - Villa Sauber",
+          "categorie": "Musée",
+          "coords": { "lat": 43.7443, "lng": 7.4339 }
+        },
+        {
+          "nom_recherche": "Collection de Voitures Anciennes de S.A.S. le Prince de Monaco",
+          "categorie": "Musée",
+          "coords": { "lat": 43.7308, "lng": 7.4201 }
+        }
+      ],
+      "illustration": "jour8.jpg",
+      "encarts": [
+        {
+          "symbole": "🚶‍♀️",
+          "titre": "Déplacements",
+          "texte": "Monaco est bien desservie par les bus. Pensez à prendre un pass journée pour faciliter vos déplacements entre les différents sites."
+        }
+      ]
+    },
+    {
+      "jour": 9,
+      "symbole": "🌺",
+      "titre": "L'élégance de Saint-Jean-Cap-Ferrat",
+      "legende": "Évadez-vous sur la presqu'île de Saint-Jean-Cap-Ferrat, un joyau de la Côte d'Azur. Visitez la somptueuse Villa Ephrussi de Rothschild et ses magnifiques jardins, puis profitez d'une promenade apaisante le long du sentier côtier.",
+      "lieu": "Saint-Jean-Cap-Ferrat",
+      "activites": [
+        "<strong>🚌 Trajet pittoresque vers Cap-Ferrat</strong>: Un court trajet en bus ou en voiture vous mènera à cette presqu'île idyllique.",
+        "<strong>🌸 Visite de la Villa Ephrussi de Rothschild</strong>: Explorez cette villa rose et ses neuf jardins thématiques, offrant des vues spectaculaires sur la mer.",
+        "<strong>🚶‍♂️ Promenade du Cap-Ferrat</strong>: Une balade douce le long du sentier du littoral, pour admirer les criques secrètes et les villas somptueuses."
+      ],
+      "points_interet": [
+        {
+          "nom_recherche": "Villa Ephrussi de Rothschild, Saint-Jean-Cap-Ferrat",
+          "categorie": "Villa et jardins",
+          "coords": { "lat": 43.6967, "lng": 7.3297 }
+        },
+        {
+          "nom_recherche": "Sentier du Littoral, Saint-Jean-Cap-Ferrat",
+          "categorie": "Sentier de randonnée",
+          "coords": { "lat": 43.6898, "lng": 7.3345 }
+        }
+      ],
+      "illustration": "jour9.jpg",
+      "encarts": [
+        {
+          "symbole": "☕",
+          "titre": "Pause gourmande",
+          "texte": "Le salon de thé de la Villa Ephrussi de Rothschild offre une vue imprenable sur la baie, idéal pour une pause café ou déjeuner léger."
+        }
+      ]
+    },
+    {
+      "jour": 10,
+      "symbole": "🌊",
+      "titre": "Sentier côtier et saveurs du marché",
+      "legende": "Profitez d'une matinée vivifiante sur le Sentier du Littoral, offrant des vues imprenables sur la Méditerranée. L'après-midi sera dédiée à la découverte des saveurs locales au marché de la Condamine, pour une immersion gourmande.",
+      "lieu": "Monaco",
+      "activites": [
+        "<strong>🚶‍♀️ Randonnée douce sur le Sentier du Littoral</strong>: Parcourez une partie du sentier côtier entre Monaco et Cap d'Ail, une balade relaxante avec des panoramas magnifiques.",
+        "<strong>🛍️ Retour au Marché de la Condamine</strong>: Profitez-en pour acheter des souvenirs gourmands ou simplement vous imprégner de l'ambiance locale.",
+        "<strong>🍽️ Dîner avec vue sur le port</strong>: Terminez la journée par un dîner dans l'un des restaurants du Port Hercule, pour une ambiance chic et décontractée."
+      ],
+      "points_interet": [
+        {
+          "nom_recherche": "Sentier du Littoral, Monaco",
+          "categorie": "Sentier de randonnée",
+          "coords": { "lat": 43.7295, "lng": 7.4085 }
+        },
+        {
+          "nom_recherche": "Marché de la Condamine, Monaco",
+          "categorie": "Marché",
+          "coords": { "lat": 43.7339, "lng": 7.4229 }
+        }
+      ],
+      "illustration": "jour10.jpg",
+      "encarts": [
+        {
+          "symbole": "👟",
+          "titre": "Équipement",
+          "texte": "Pour le sentier du littoral, des chaussures de marche confortables sont conseillées, même si le parcours est facile."
+        }
+      ]
+    },
+    {
+      "jour": 11,
+      "symbole": "💆‍♀️",
+      "titre": "Journée bien-être et relaxation",
+      "legende": "Offrez-vous une journée entièrement dédiée à la détente et au bien-être. Profitez des installations d'un spa de luxe pour vous ressourcer, suivi d'un dîner gastronomique pour une expérience culinaire mémorable.",
+      "lieu": "Monaco",
+      "activites": [
+        "<strong>🧖‍♀️ Matinée aux Thermes Marins Monte-Carlo</strong>: Profitez des piscines d'eau de mer chauffée, des saunas, hammams et d'un soin relaxant (massage, soin du visage).",
+        "<strong>🥗 Déjeuner léger et sain</strong>: Optez pour un déjeuner équilibré au restaurant du spa ou dans un établissement proposant des options saines.",
+        "<strong>🍽️ Dîner gastronomique</strong>: Terminez cette journée de bien-être par un dîner dans l'un des restaurants étoilés de Monaco, pour une expérience culinaire d'exception."
+      ],
+      "points_interet": [
+        {
+          "nom_recherche": "Thermes Marins Monte-Carlo",
+          "categorie": "Spa",
+          "coords": { "lat": 43.7366, "lng": 7.4244 }
+        }
+      ],
+      "illustration": "jour11.jpg",
+      "encarts": [
+        {
+          "symbole": "💰",
+          "titre": "Budget spa",
+          "texte": "Les spas de luxe à Monaco peuvent être coûteux. Pensez à réserver à l'avance et à vérifier les forfaits disponibles."
+        }
+      ]
+    },
+    {
+      "jour": 12,
+      "symbole": "🛍️",
+      "titre": "Derniers plaisirs et adieux à la Principauté",
+      "legende": "Profitez de cette dernière journée pour quelques emplettes dans les boutiques de luxe de Monte-Carlo ou pour revisiter un lieu coup de cœur. Terminez par un dernier coucher de soleil sur la Méditerranée, emportant avec vous des souvenirs précieux.",
+      "lieu": "Monaco",
+      "activites": [
+        "<strong>🛍️ Shopping dans le Carré d'Or</strong>: Flânez dans les rues commerçantes de Monte-Carlo, admirant les vitrines des grandes marques de luxe.",
+        "<strong>🚶‍♂️ Dernière balade au Jardin Saint-Martin</strong>: Un dernier moment de quiétude dans ce jardin public offrant de belles vues sur la mer et le Musée Océanographique.",
+        "<strong>🌅 Coucher de soleil mémorable</strong>: Choisissez un point de vue panoramique, comme le Rocher ou la Tête de Chien, pour admirer un dernier coucher de soleil sur la Côte d'Azur."
+      ],
+      "points_interet": [
+        {
+          "nom_recherche": "Carré d'Or, Monte-Carlo",
+          "categorie": "Quartier commerçant",
+          "coords": { "lat": 43.7397, "lng": 7.4275 }
+        },
+        {
+          "nom_recherche": "Jardin Saint-Martin, Monaco",
+          "categorie": "Jardin",
+          "coords": { "lat": 43.7303, "lng": 7.4239 }
+        }
+      ],
+      "illustration": "jour12.jpg",
+      "encarts": [
+        {
+          "symbole": "🎁",
+          "titre": "Souvenirs",
+          "texte": "En plus des boutiques de luxe, vous trouverez des souvenirs plus abordables dans les petites boutiques du Rocher ou du Marché de la Condamine."
+        }
+      ]
+    },
+    {
+      "jour": 13,
+      "symbole": "🛫",
+      "titre": "Départ de Monaco",
+      "legende": "C'est le moment de dire au revoir à la Principauté de Monaco. Profitez d'un dernier petit-déjeuner avant votre transfert vers l'aéroport de Nice pour votre vol retour, la tête remplie de souvenirs scintillants.",
+      "lieu": "Monaco",
+      "activites": [
+        "<strong>☕ Dernier petit-déjeuner monégasque</strong>: Savourez un dernier repas typique avant de quitter la Principauté.",
+        "<strong>🧳 Transfert vers l'aéroport de Nice</strong>: Un chauffeur vous conduira à l'aéroport de Nice pour votre vol retour.",
+        "<strong>🛫 Vol retour vers Faure, Afrique du Sud</strong>: Emportez avec vous les images et les sensations de ce voyage inoubliable sur la Côte d'Azur."
+      ],
+      "illustration": "jour13.jpg",
+      "encarts": [
+        {
+          "symbole": "⏰",
+          "titre": "Prévoir large",
+          "texte": "Prévoyez suffisamment de temps pour le transfert vers l'aéroport et les formalités d'embarquement, surtout en période de forte affluence."
+        }
+      ]
+    }
+  ],
+  "detail_budget": [
+    { "titre": "Budget vol:", "legende": "A partir de 661 €/pers", "symbole": "🛬" },
+    { "titre": "Budget transports:", "legende": "Environ 180 €/pers (transferts aéroport, bus, train pour excursions)", "symbole": "🚆" },
+    { "titre": "Budget repas:", "legende": "Environ 900 €/pers (base 70€/jour pour 3*)", "symbole": "🥗" },
+    { "titre": "Budget logement:", "legende": "Environ 1500 €/pers (base 125€/nuit en chambre double 3* ou hors Monaco)", "symbole": "🛏️" },
+    { "titre": "Budget activités:", "legende": "Environ 350 €/pers (musées, jardins, spa)", "symbole": "🎭" }
+  ],
+  "periodes_ideales": [
+    { "titre": "Mai-Juin", "symbole": "☀️" },
+    { "titre": "Septembre-Octobre", "symbole": "🍂" }
+  ],
+  "infos_pratiques": [
+    { "titre": "En mai, les températures varient entre 15 et 22°C. Prévoir des vêtements légers pour la journée et une veste pour les soirées.", "symbole": "☀️" },
+    { "titre": "La monnaie est l'Euro (€). Les cartes de crédit sont largement acceptées. Prévoir un peu de liquide pour les petits commerces ou marchés.", "symbole": "💳" },
+    { "titre": "Monaco est très bien desservie par les bus. Pour les excursions, le train est une option pratique et panoramique le long de la côte.", "symbole": "🚌" },
+    { "titre": "Une carte SIM locale ou une eSIM est recommandée pour rester connecté. Le Wi-Fi est généralement disponible dans les hôtels et de nombreux lieux publics.", "symbole": "📶" }
+  ],
+  "infos_decallees": [
+    {
+      "symbole": "💡",
+      "titre": "Le saviez-vous ?",
+      "texte": "Monaco est le deuxième plus petit État indépendant du monde, après le Vatican. On pourrait le traverser à pied en moins d'une heure !"
+    },
+    {
+      "symbole": "🙃",
+      "titre": "Insolite",
+      "texte": "Les citoyens monégasques (les \"Monégasques\") n'ont pas le droit de jouer au Casino de Monte-Carlo. C'est une règle établie pour protéger les habitants de la Principauté."
+    }
+  ],
+  "specialites_culinaires": [
+    {
+      "symbole": "🍴",
+      "titre": "Barbagiuan",
+      "description": "De petits beignets frits, farcis aux blettes, à la ricotta, au riz et aux herbes. Un délice salé typiquement monégasque, parfait en apéritif."
+    },
+    {
+      "symbole": "🍕",
+      "titre": "Pissaladière",
+      "description": "Bien que niçoise d'origine, cette tarte salée à base de pâte à pain, d'oignons confits, d'anchois et d'olives est très appréciée sur la Côte d'Azur, y compris à Monaco."
+    },
+    {
+      "symbole": "🍞",
+      "titre": "Fougasse Monégasque",
+      "description": "Une version sucrée de la fougasse, parfumée à la fleur d'oranger et garnie de fruits confits et d'amandes. Idéale pour le petit-déjeuner ou une pause gourmande."
+    }
+  ],
+  "liens_utiles": [
+    { "legende": "Vols", "titre": "Réserve ton vol", "url": "https://www.kayak.fr/flights/CPT-NCE/2026-05-12/2026-05-25", "symbole": "🛬" },
+    { "legende": "Infos officielles et inspirations", "titre": "Visit Monaco", "url": "https://www.visitmonaco.com/fr", "symbole": "📘" },
+    { "legende": "Transports en commun Monaco", "titre": "Compagnie des Autobus de Monaco", "url": "https://www.cam.mc/", "symbole": "🚌" },
+    { "legende": "Météo", "titre": "Météo France", "url": "https://www.meteofrance.com/previsions-meteo-france/monaco/98000", "symbole": "🌤️" }
+  ]
+}
